@@ -23,7 +23,7 @@
     "adm-zip": "0.4.4",
     "optimist": "~0.6.0",
     "q": "1.0.0",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.20",
     "source-map-support": "~0.2.6",
     "html-entities": "~1.1.1",
     "accessibility-developer-tools": "~2.6.0"
@@ -36,7 +36,7 @@
     "mocha": "1.21.4",
     "cucumber": "~0.3.3",
     "express": "~3.3.4",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.20",
     "rimraf": "~2.2.6"
   },
   "repository": {
